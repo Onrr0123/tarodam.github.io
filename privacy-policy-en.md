@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective Date**: January 9, 2025  
-**Service Name**: TaroDam  
-**Operated by**: Arangot
+**Effective Date**: January 9, 2026  
+**Service Name**: TaroDam(타로담)  
+**Operated by**: Aranggot(아랑곳)
 
 ---
 
@@ -54,7 +54,7 @@ To exercise these rights, please contact us using the information below.
 
 For inquiries regarding personal information, please contact:
 
-- **Operated by**: Aranggot
+- **Operated by**: Aranggot(아랑곳)
 - **Email**: noreply.tarodam@gmail.com
 
 ---
