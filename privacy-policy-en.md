@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective Date**: January 9, 2026  
-**Service Name**: TaroDam(타로담)  
+**Effective Date**: January 6, 2026  
+**Service Name**: TaroDam  
 **Operated by**: Aranggot(아랑곳)
 
 ---
