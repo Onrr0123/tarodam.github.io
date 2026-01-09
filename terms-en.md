@@ -2,7 +2,7 @@
 
 **Effective Date**: January 6, 2026  
 **Service Name**: TaroDam  
-**Operated by**: Aranggot(아랑곳)
+**Operated by**: Aranggot (아랑곳)
 
 ---
 
@@ -60,7 +60,7 @@ The Operator may modify these Terms when necessary. Modified Terms will take eff
 
 For service-related inquiries, please contact:
 
-- **Operated by**: Aranggot
+- **Operated by**: Aranggot (아랑곳)
 - **Email**: noreply.tarodam@gmail.com
 
 ---

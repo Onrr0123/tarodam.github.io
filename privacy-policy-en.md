@@ -2,7 +2,7 @@
 
 **Effective Date**: January 6, 2026  
 **Service Name**: TaroDam  
-**Operated by**: Aranggot(아랑곳)
+**Operated by**: Aranggot (아랑곳)
 
 ---
 
@@ -11,13 +11,14 @@
 TaroDam collects the following information to provide our service:
 
 - **Nickname**: To identify users within the service
-- **Email Address**: For account authentication and management (collected via Google Sign-In)
+- **Email Address**: For account authentication and management (collected via social login)
 - **Chat History**: AI tarot conversation records
+- **User Preference Analysis Data**: User preference information inferred from conversation content (for service personalization)
 
 ## 2. How We Collect Information
 
-- Automatically collected through Google OAuth social login
-- Automatically generated during service use (chat history)
+- Automatically collected through social login
+- Automatically generated during service use (chat history, preference analysis data)
 
 ## 3. Purpose of Information Use
 
@@ -30,7 +31,8 @@ Collected information is used only for the following purposes:
 ## 4. Retention and Deletion of Information
 
 - **Retention Period**: Until account deletion
-- **Deletion Method**: All personal information and chat history will be promptly deleted upon account deletion request.
+- **Deletion Method**: All personal information, chat history, and preference analysis data will be promptly deleted upon account deletion request.
+- **Separate Preference Data Deletion**: Users may request deletion of preference analysis data without deleting their account.
 
 ## 5. Disclosure to Third Parties
 
@@ -47,6 +49,7 @@ Users may exercise the following rights at any time:
 - Request access to personal information
 - Request correction of personal information
 - Request account deletion and removal of personal information
+- Request deletion of preference analysis data
 
 To exercise these rights, please contact us using the information below.
 
@@ -54,7 +57,7 @@ To exercise these rights, please contact us using the information below.
 
 For inquiries regarding personal information, please contact:
 
-- **Operated by**: Aranggot(아랑곳)
+- **Operated by**: Aranggot (아랑곳)
 - **Email**: noreply.tarodam@gmail.com
 
 ---

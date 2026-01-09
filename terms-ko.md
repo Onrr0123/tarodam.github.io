@@ -60,7 +60,7 @@ TaroDam은 AI 기반 타로 채팅 서비스를 제공합니다. 사용자는 AI
 
 서비스 관련 문의사항은 아래로 연락해 주세요:
 
-- **운영 주체**: 아랑곳 (Arangot)
+- **운영 주체**: 아랑곳 (Aranggot)
 - **이메일**: noreply.tarodam@gmail.com
 
 ---
