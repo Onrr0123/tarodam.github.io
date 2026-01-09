@@ -2,7 +2,7 @@
 
 **Effective Date**: January 6, 2026  
 **Service Name**: TaroDam  
-**Operated by**: Arangot(아랑곳)
+**Operated by**: Aranggot(아랑곳)
 
 ---
 
