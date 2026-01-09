@@ -8,7 +8,7 @@
 
 ## 1. Purpose
 
-These Terms of Service govern the conditions and procedures for using the TaroDam service (hereinafter "Service") provided by Arangot (hereinafter "Operator").
+These Terms of Service govern the conditions and procedures for using the TaroDam service (hereinafter "Service") provided by Aranggot (hereinafter "Operator").
 
 ## 2. Service Description
 
